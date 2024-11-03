@@ -1,0 +1,30 @@
+body{
+    background-color:#f3f8f8;
+font-family: Arial;
+font-size: 20px
+}
+tr{
+    background-color:#d3edf1;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+ /* Estilizando os botões do carrossel */
+ .carousel-control-prev-icon, .carousel-control-next-icon {
+    background-color: #007bff; /* Azul para o ícone de "anterior" */
+    border-radius: 50%;
+}
+
+/* Alterando o botão "next" para uma cor específica */
+.carousel-control-next-icon {
+    background-color: #17a2b8; /* Azul claro para o ícone de "próximo" */
+}
+
+table {
+    width: 900px;
+    border-collapse: collapse;
+}
+td {
+    border: 1px solid;
+}
